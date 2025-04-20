@@ -10,6 +10,8 @@ SimpleNav 是一个快速的场景导航工具.
 针对于,场景编辑与设计白盒阶段,很有用处.
 注:位置信息,存储为scriptableobject,和png截图.到插件目录下.
 
+![SimpleNav Screenshot](https://github.com/OrganicNori/Unity_SimpleNav/blob/main/SimpleNav.PNG?raw=true)
+
 ### 使用方法.
 复制SimpleNav目录到任意目录即可使用.
 
