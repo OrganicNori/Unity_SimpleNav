@@ -7,14 +7,16 @@ Then, you can quickly switch back to that position. This is very useful for scen
 Note: The position information is stored as a scriptable object, along with a PNG screenshot, in the plugin directory.
 ### Usage
 To use, simply copy the SimpleNav directory to any desired location.
-![SimpleNav Screenshot](https://github.com/OrganicNori/Unity_SimpleNav/blob/main/SimpleNavHowtoUse.png?raw=true)
+
+![SimpleNav Screenshot](https://github.com/OrganicNori/Unity_SimpleNav/blob/main/SimpleNavHowtoUse.png)
+
 In Unity, select Tools > SceneNav Window
 - Add NavPoint: This will create a navigation element at the current viewpoint.
 - Click the small box icon to switch the viewpoint to the saved location.
 - SaveData: This allows you to save the modified Note information and the current list of viewpoints to a file, so that Unity can display this information the next time it starts.
 - CleanALL: This will clear all position files and png images.
 ### Other
-![SimpleNav Screenshot](https://github.com/OrganicNori/Unity_SimpleNav/blob/main/SimpleNavOther.png?raw=true)
+![SimpleNav Screenshot](https://github.com/OrganicNori/Unity_SimpleNav/blob/main/SimpleNavOther.png)
 If you encounter any issues, you can manually delete the files in the .SceneFile directory.
 Additionally, check if the list held by the SceneNav file is cleared. This should generally resolve most problems.
 
@@ -29,7 +31,9 @@ SimpleNav 是一个快速的场景导航工具.可以让你,记录当前SceneVie
 
 ### 使用方法.
 复制SimpleNav目录到任意目录即可使用.
-![SimpleNav Screenshot](https://github.com/OrganicNori/Unity_SimpleNav/blob/main/SimpleNavHowtoUse.png?raw=true)
+
+![SimpleNav Screenshot](https://github.com/OrganicNori/Unity_SimpleNav/blob/main/SimpleNavHowtoUse.png)
+
 Unity中选择Tools---SceneNav Window
 
 - Add NavPoint---则会在当前的视角位置创建一个导航元素.
@@ -43,6 +47,8 @@ Unity中选择Tools---SceneNav Window
 ### 其他.
 
 如果出现问题,可以手动删掉.SceneFile,目录下的文件.
-![SimpleNav Screenshot](https://github.com/OrganicNori/Unity_SimpleNav/blob/main/SimpleNavOther.png?raw=true)
+
+![SimpleNav Screenshot](https://github.com/OrganicNori/Unity_SimpleNav/blob/main/SimpleNavOther.png)
+
 并且,看一下SceneNav,这个文件所Hold的列表是否清空,这样一般就没啥问题了.
 
